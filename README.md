@@ -22,9 +22,19 @@ For students that don't always have access to a computer and need to access thei
 
 ![Init](./InitialPrototype.png)
 
+## Second Prototype
+
+![Second Prototype](./SecondPrototype.png)
+
 ## Final Prototype
 
-![Final Prototype](./FinalPrototype.png)
+![Final](./FinalPrototype1.png)
+![Final](./FinalPrototype2.png)
+![Final](./FinalPrototype3.png)
+
+## Final Prototype Navigation
+
+![Nav](./NavigationPrototype.png)
 
 ## Demo Video
 
