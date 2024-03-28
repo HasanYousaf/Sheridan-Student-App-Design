@@ -5,6 +5,7 @@ Prototype for a Sheridan College app. This app allows students to check on their
 
 1. [Version 1](https://www.figma.com/file/JgObWh6Qj19fzt5Ikf3k3q/Assignment-1?type=design&node-id=0%3A1&mode=design&t=lRyODStvkEaWL1R1-1)
 2. [Version 2](https://www.figma.com/file/DM7z1ZhvToj9B8I2L5HWfi/Assignment-2?type=design&node-id=27%3A623&mode=design&t=1zoarrS7GLqH2pE9-1)
+3. [Version 3](https://www.figma.com/file/CMuQvsGJ9qaKWnqPQvuzGu/Assignment-3?type=design&node-id=0%3A1&mode=design&t=XFQOyhZHcqBamHQv-1)
 
 ## About
 
@@ -52,6 +53,6 @@ We would like to implement the following functionalities. We found that these we
 
 ## Links
 
-- [Github Repository](https://github.com/HasanYousaf/HCI-Assignment-2)
-- [Figma Public Link](https://www.figma.com/file/DM7z1ZhvToj9B8I2L5HWfi/Assignment-2?type=design&node-id=27%3A623&mode=design&t=1zoarrS7GLqH2pE9-1)
+- [Github Repository](https://github.com/HasanYousaf/HCI-Assignment)
+- [Figma Public Link](https://www.figma.com/file/CMuQvsGJ9qaKWnqPQvuzGu/Assignment-3?type=design&node-id=0%3A1&mode=design&t=XFQOyhZHcqBamHQv-1)
 - [Video Demo](https://youtu.be/1CbAwSATc9E)
