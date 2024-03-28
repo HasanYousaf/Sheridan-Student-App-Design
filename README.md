@@ -1,4 +1,4 @@
-# HCI-Assignment-2
+# HCI-Assignment
 Prototype for a Sheridan College app. This app allows students to check on their coursework and communicate with other students and faculty via Sheridan Email or the built-in messaging service.
 
 ## Application Versions
